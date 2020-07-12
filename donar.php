@@ -102,10 +102,7 @@ Apart from enjoying our refreshments and souvenir, other things to help you reco
 
                 </td>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        
-      
-
-	  
+        	  
                      <td style="float:right; padding-bottom:900px; padding-left:90px">  <a href="index1.php"><img src="Images/regdonor.png" width="500px" height="350px"  /><br /><br /></br></br><br /><br /><img src="Images/abot12.png" width="400px" height="540px" /></a></td></tr></table></div></div></div>
                       		<br /><br />				
                             
