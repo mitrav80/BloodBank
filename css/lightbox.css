@@ -107,7 +107,7 @@ body:after {
 }
 
 .lb-nav a.lb-prev {
-  width: 34%;
+  width: 35%;
   left: 0;
   float: left;
   background: url(../img/prev.png) left 48% no-repeat;
@@ -144,7 +144,7 @@ body:after {
 
 .lb-dataContainer {
   margin: 0 auto;
-  padding-top: 5px;
+  padding-top: 6px;
   *zoom: 1;
   width: 100%;
   -moz-border-radius-bottomleft: 4px;
@@ -183,7 +183,7 @@ body:after {
   display: block;
   clear: left;
   padding-bottom: 1em;
-  font-size: 12px;
+  font-size: 11px;
   color: #999999;
 }
 
