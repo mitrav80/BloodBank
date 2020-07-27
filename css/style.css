@@ -90,7 +90,7 @@ body {
 	-moz-border-radius:5px 5px 0 0;
 	-webkit-border-radius:5px 5px 0 0;
 	border-radius:5px 5px 0 0;
-	box-shadow: inset 0px -2px 4px #9C9797;
+	box-shadow: inset 0px -3px 4px #9C9797;
 	-webkit-box-shadow: inset 0px -2px 4px #9C9797;
 	-moz-box-shadow: inset 0px -2px 4px #9C9797;
 	-o-box-shadow: inset 0px -2px 4px #9C9797;
@@ -104,7 +104,7 @@ body {
 .header-banner{
 	float: right;
 	width: 28.333%;
-	margin: -150px 0 -4px;
+	margin: -150px 0 -5px;
 }
 /*header-para*/
 .header-para{
