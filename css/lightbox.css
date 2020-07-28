@@ -125,7 +125,7 @@ body:after {
 }
 
 .lb-nav a.lb-next {
-  width: 64%;
+  width: 62%;
   right: 0;
   float: right;
   background: url(../img/next.png) right 47% no-repeat;
@@ -174,7 +174,7 @@ body:after {
 }
 
 .lb-data .lb-caption {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: bold;
   line-height: 1em;
 }
