@@ -255,7 +255,7 @@ body {
 	margin-left: 3.333%;
 }
 .sidebar h2{
-	margin-bottom:2%;
+	margin-bottom:3%;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 2.4em;
 	color: #A57873;
@@ -326,7 +326,7 @@ body {
 	-o-border-radius: 5px;
 }
 .btn-2 {
-	box-shadow: 0 4px rgb(207, 51, 67);
+	box-shadow: 0 4px rgb(207, 52, 67);
 	-webkit-box-shadow: 0 4px rgb(207, 51, 67);
 	-moz-box-shadow: 0 4px rgb(207, 51, 67);
 	-o-box-shadow: 0 4px rgb(207, 51, 67);
