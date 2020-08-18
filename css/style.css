@@ -549,7 +549,7 @@ body {
 	line-height: 1.8em;
 }
 .lb-album .btn1{
-	margin-top: 10px;
+	margin-top: 11px;
 }
 .boxes li.btn1{
 	padding: 0 10px 10px;
@@ -624,6 +624,7 @@ body {
 	-o-transition: opacity 0.3s linear 1.2s;
 	-ms-transition: opacity 0.3s linear 1.2s;
 	transition: opacity 0.3s linear 1.2s;
+	
 }
 .lb-overlay img{
 	/* height: 100%; For Opera max-height does not seem to work */
@@ -790,6 +791,7 @@ x:-o-prefocus, .lb-overlay img {
 	background: linear-gradient(to bottom, rgba(222,61,77,1) 0%,rgba(227,62,79,1) 27%,rgba(222,61,77,1) 57%,rgba(188,35,51,1) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de3d4d', endColorstr='#bc2333',GradientType=0 );
 }
+
 .contact-form input[type="submit"]:hover{
 	box-shadow: 0 4px #B41D1D;
 	-moz-box-shadow: 0 4px #B41D1D;
