@@ -737,7 +737,7 @@ x:-o-prefocus, .lb-overlay img {
 	border: 1px solid #DFD2CA;
 	outline: none;
 	-webkit-appearance: none;
-	border-radius: 5px;	
+	border-radius: 6px;	
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	-o-border-radius: 5px;
