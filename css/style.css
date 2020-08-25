@@ -893,7 +893,7 @@ x:-o-prefocus, .lb-overlay img {
 	.header-para p span{
 		display: none;
 	}
-	
+
 }
 @media only screen and (max-width: 800px) {
 	.wrap{
@@ -969,7 +969,7 @@ x:-o-prefocus, .lb-overlay img {
 		width: 73.333%;
 	}
 	.header-banner {
-		width: 23.333%;
+		width: 22.333%;
 		margin: 16px 0 2px;
 	}
 }
