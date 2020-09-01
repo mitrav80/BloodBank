@@ -45,7 +45,7 @@ body:after {
   background-color: white;
   *zoom: 1;
   width: 250px;
-  height: 253px;
+  height: 252px;
   margin: 0 auto;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -175,7 +175,7 @@ body:after {
 }
 
 .lb-data .lb-caption {
-  font-size: 15px;
+  font-size: 16px;
   font-weight: bold;
   line-height: 1em;
 }
