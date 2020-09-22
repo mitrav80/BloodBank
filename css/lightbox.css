@@ -175,7 +175,7 @@ body:after {
 }
 
 .lb-data .lb-caption {
-  font-size: 16px;
+  font-size: 15px;
   font-weight: bold;
   line-height: 1em;
 }
@@ -184,7 +184,7 @@ body:after {
   display: block;
   clear: left;
   padding-bottom: 1em;
-  font-size: 12px;
+  font-size: 11px;
   color: #999999;
 }
 
