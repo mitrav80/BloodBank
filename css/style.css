@@ -949,6 +949,7 @@ x:-o-prefocus, .lb-overlay img {
 		padding: 8px 10px;
 	}
 }
+
 @media only screen and (max-width: 640px){
 	.wrap{
 		width:95%;
@@ -961,6 +962,7 @@ x:-o-prefocus, .lb-overlay img {
 		padding: 8px 6px;
 	}
 }
+
 @media only screen and (max-width: 480px) {
 	.wrap{
 		width:95%;
