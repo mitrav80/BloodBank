@@ -962,7 +962,7 @@ x:-o-prefocus, .lb-overlay img {
 		padding: 8px 6px;
 	}
 }
-
+/* call media func */
 @media only screen and (max-width: 480px) {
 	.wrap{
 		width:95%;
