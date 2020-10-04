@@ -178,7 +178,7 @@ body:after {
   font-weight: bold;
   line-height: 1em;
 }
-
+/* // lb data & number */
 .lb-data .lb-number {
   display: block;
   clear: left;
