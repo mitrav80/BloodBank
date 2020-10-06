@@ -24,7 +24,7 @@ body:after {
   line-height: 0;
   font-weight: normal;
 }
-
+/* feature of image */
 .lightbox .lb-image {
   display: block;
   height: auto;
