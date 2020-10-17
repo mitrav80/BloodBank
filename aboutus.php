@@ -8,7 +8,7 @@
 
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<!--slider-->
+<!--slider---->
 <link href="css/flexslider.css" rel="stylesheet" type="text/css" media="all" />
      <script src="js/jquery-1.11.0.min.js"></script>
 	<script src="js/lightbox.min.js"></script>
