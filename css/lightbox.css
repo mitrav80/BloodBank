@@ -105,7 +105,7 @@ body:after {
   cursor: pointer;
   display: block;
 }
-
+/* pervous lb.nav */
 .lb-nav a.lb-prev {
   width: 35%;
   left: 0;
@@ -173,7 +173,7 @@ body:after {
   text-align: left;
   line-height: 1.1em;
 }
-
+/* caption of date */
 .lb-data .lb-caption {
   font-size: 15px;
   font-weight: bold;
@@ -187,7 +187,7 @@ body:after {
   font-size: 11px;
   color: #999999;
 }
-
+/* date pf close */
 .lb-data .lb-close {
   display: block;
   float: right;
