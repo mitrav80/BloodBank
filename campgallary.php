@@ -23,7 +23,7 @@
          $('.flexslider').flexslider({
              animation: "slide",
              animationLoop: false,
-             itemWidth: 210,
+             itemWidth: 215,
              itemMargin: 5,
              minItems: 2,
              maxItems: 4,
@@ -48,7 +48,7 @@
 </div>
 <div class="nav_bg">
 <div class="wrap">
-		<?php require('header.php');?>
+		<?php  require('header.php');?>
 	</div>
 	</div>
 <div style="height:400px; width:100%; margin:auto; background-color:#f8f1e4; border:2px solid red; box-shadow:4px 1px 20px black;">
