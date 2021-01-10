@@ -52,7 +52,6 @@
 		<?php require('header.php');?>
 	</div>
   
-   
 <div style="height:500px;">
      <form method="post" enctype="multipart/form-data">
 <div class="s_bg">
@@ -93,7 +92,6 @@ We remind every visitor that we have the empowerment to save lives and let’s d
 </form>
 </div>
 
-       
         <div class="clear"></div>
 <div class="ftr-bg">
 <div class="wrap">
